@@ -14,16 +14,7 @@ Windows 10/11
 
 Скачав проект с GitHub извлеките на рабочий стол!(при извлечении в другие папки происходит краш POGCliner)
 
-Открой PowerShell
-
-Вставте две команды:
-
-pip install pyinstaller
-
-pyinstaller --onedir --windowed --name "launcherPOG" --collect-all tkinter install.py
-
-Подожди 30 сек - создастся папка dist/
-Запусти: dist\launcherPOG\launcherPOG.exe от администратора
+После открываете installer, должно появится сообщении сообщение о том что клинер скачан и его нужно открыть в папкке PitOfGoblinSetup
 
 🧼 Использование
 
